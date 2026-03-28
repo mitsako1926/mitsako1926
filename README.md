@@ -8,7 +8,7 @@ I'm Panos, an Applied Informatics student at the University of Macedonia, passio
 - 👨‍💻 I enjoy building real-world applications and collaborating with others
 - 🛠 Working on small projects while preparing to build my own CRM system
 - 🎯 My goal is to become a professional developer and build reliable, scalable software
-- ⚡ Fun fact: Oracle Certified Java SE 11 Developer
+- ⚡ Fun fact: Oracle Certified Java SE 11 Developer [Oracle Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=AB9E5221DE69BFE2E1EB925853D56320FCAFDAE50F814221EACDD4E742890962)
 
 ## 🔧 Tools & Technologies
 - Java
@@ -24,6 +24,5 @@ I'm Panos, an Applied Informatics student at the University of Macedonia, passio
 - CSS
 
 ## 📫 Contact
-- GitHub: https://github.com/mitsako1926
 - Email: mitsako2006@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/panagiotis-dimitrakopoulos2006)
