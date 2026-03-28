@@ -26,3 +26,4 @@ I'm Panos, an Applied Informatics student at the University of Macedonia, passio
 ## 📫 Contact
 - GitHub: https://github.com/mitsako1926
 - Email: mitsako2006@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/panagiotis-dimitrakopoulos2006)
