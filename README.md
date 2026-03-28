@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**mitsako1926/mitsako1926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Panos, an Applied Informatics student at the University of Macedonia, passionate about building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I work with **Java, Python and MySQL**
+- 📚 Learning REST APIs and exploring Java libraries
+- 👨‍💻 I enjoy building real-world applications and collaborating with others
+- 🛠 Working on small projects while preparing to build my own CRM system
+- 🎯 My goal is to become a professional developer and build reliable, scalable software
+- ⚡ Fun fact: Oracle Certified Java SE 11 Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- Java
+- C
+- MySQL
+- Git
+- Python
+
+## 🔭 Learning Soon
+- React
+- C++
+- HTML
+- CSS
+
+## 📫 Contact
+- GitHub: https://github.com/mitsako1926
+- Email: mitsako2006@gmail.com
